@@ -1,0 +1,7 @@
+### Send POST request with json body
+POST http://127.0.0.1:9053
+Content-Type: application/json
+
+{
+  "item": "5"
+}
